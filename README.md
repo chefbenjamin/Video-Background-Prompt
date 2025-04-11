@@ -1,6 +1,7 @@
 # 🎥 4K Virtual Background Design Prompt
 
-We needed a Virtual background for [Gourmet Ads](https://www.gourmetads.com) so we created this ChatGPT prompt for any company 
+We needed a Virtual background for [Gourmet Ads](https://www.gourmetads.com) so we created this ChatGPT prompt for any company. 
+
 Here are two examples were designed by the prompt [View the full prompt here](Video-Background-Prompt.md)
 
 ![Sample Gourmet Ads Virtual Background](/gourmetads-background.png)
