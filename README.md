@@ -1,6 +1,6 @@
 # 🎥 4K Virtual Background Design Prompt
 
-We needed a Virtual background for [Gourmet Ads](https://www.gourmetads.com) and these two examples were designed by the prompt 
+We needed a Virtual background for [Gourmet Ads](https://www.gourmetads.com) and these two examples were designed by the prompt [View the full prompt here](4k_virtual_background_prompt.md)
 
 ![Sample Gourmet Ads Virtual Background](/gourmetads-background.png)
 ![Sample Gourmet Ads Virtual Background](/gourmetads-background2.png)
