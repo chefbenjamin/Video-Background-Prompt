@@ -2,7 +2,8 @@
 
 We needed a Virtual background for [Gourmet Ads](https://www.gourmetads.com) and these two examples were designed by the prompt 
 
-![Sample Gourmet Ads Virtual Background](assets/gourmetads-background.jpg)
+![Sample Gourmet Ads Virtual Background](/gourmetads-background.png)
+![Sample Gourmet Ads Virtual Background](/gourmetads-background2.png)
 
 This prompt is designed to guide you (or your AI assistant) through the creation of a custom **4K virtual background** suitable for use on Zoom, Microsoft Teams, Google Meet, or NVIDIA Broadcast.
 
